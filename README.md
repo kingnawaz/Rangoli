@@ -1,2 +1,2 @@
 # Rangoli
-printing with soe pattrens
+printing with some pattrens
