@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  1 21:19:25 2019
-
-@author: nawaz
-"""
-
 def print_rangoli(size):
     # your code goes here
     alp='abcdefghijklmnopqrstuvwxyz'
